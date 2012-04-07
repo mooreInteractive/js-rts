@@ -1,0 +1,17 @@
+Experimental Javascript RTS in the HTML5 CANVAS
+
+Very early iteration. 
+
+Mouse Controls:
+
+Left click: select unit or building.
+
+Right click: select action target.
+
+
+The only right-click actions are on the grunts. They are move to spot if you clicked grass. If you clicked woods, it will go and harvest wood. 
+
+
+--Changelog--
+0.0: -Need to attach pathfinding to movement and bar from moving into woods. 
+	 bug: with a grunt selected, right-clicking on an inside tree will take the path finder forever to see there is no path.

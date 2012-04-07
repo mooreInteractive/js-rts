@@ -1,0 +1,17 @@
+/*CSS for MI/js/rts/*/
+body{background: #333333; padding: 0; margin: 0; text-align: center;}
+h1{color: #cdcdcd; font-family: Helvetica, Arial, sans-serif;}
+a:link, a:visited{color: #f6f6f7!important;}
+.task{color: #cdcdcd;}
+#container{background: #007D03; margin: 0 auto; padding: 0; text-align: left;}
+#output{
+	text-align: left; 
+	width: 1000px; 
+	height: 100px; 
+	overflow-x: hidden;
+	overflow-y: scroll; 
+	background: #000000; 
+	color: #00ff00;
+	margin: 0 auto;
+}
+
